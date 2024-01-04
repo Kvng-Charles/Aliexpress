@@ -1,0 +1,1 @@
+This is a scrapper to scrape a list of watches from the ecommerce site Aliexpress. The result is copied and stored in a CSV file called output.csv
